@@ -1,12 +1,11 @@
 ##### HTTP和HTTPS
 
 #### 一、HTTP
- > 超文本传输协议
- > 
+ - 超文本传输协议 
 
 #### 二、HTTPS
- > 超文本传输安全协议
- > Hyper Text Transfer Protocol over Secure Layer
+ - 超文本传输安全协议
+ - Hyper Text Transfer Protocol over Secure Layer
  
  
 1、解决的问题
